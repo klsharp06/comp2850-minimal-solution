@@ -55,7 +55,7 @@ data class Task(
 
                 title.length < MIN_TITLE_LENGTH ->
                     ValidationResult.Error(
-                        "Title must be at least $MIN_TITLE_LENGTH characters. Currently: ${title.length} characters.",
+                        "",//"Title must be at least $MIN_TITLE_LENGTH characters. Currently: ${title.length} characters.",
                     )
 
                 title.length > MAX_TITLE_LENGTH ->

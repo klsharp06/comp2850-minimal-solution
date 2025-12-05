@@ -9,7 +9,7 @@
 -   I confirm all participants gave informed consent
 -   I confirm this work is my own (AI tools used for code assistance are cited below)
 
-**AI tools used** (if any): \[e.g., "Copilot for route handler boilerplate (lines 45-67 in diffs)"\]
+**AI tools used** (if any): 
 
 ------------------------------------------------------------------------
 
