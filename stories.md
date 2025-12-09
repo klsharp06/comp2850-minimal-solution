@@ -150,3 +150,20 @@ Notes:
 Copy here, or link the location of this participant’s pilot study notes
 Metrics:
 Copy here from metrics.csv, or link to the location of this participant’s pilot study log.
+
+keyboard only 2
+
+2025-12-09T17:54:33.740977543Z,80cd30,r_f475f104,T0_list,success,,159,200,off
+2025-12-09T17:55:57.090758185Z,80cd30,r_c347742e,T0_list,success,,33,200,off
+2025-12-09T17:56:04.372405759Z,80cd30,r_cf76b5ab,T3_add,success,,19,200,on
+2025-12-09T17:56:35.724677909Z,80cd30,r_55bf7a41,T0_list,success,,19,200,off
+2025-12-09T17:56:41.655999670Z,80cd30,r_68adb795,T3_add,success,,5,200,on
+2025-12-09T17:56:44.746139739Z,80cd30,r_12c80d23,T1_filter,success,,8,200,on
+2025-12-09T17:56:45.685766724Z,80cd30,r_9853d62b,T1_filter,success,,4,200,on
+2025-12-09T17:56:48.301173843Z,80cd30,r_b0558686,T1_filter,success,,5,200,on
+2025-12-09T17:57:10.009933249Z,80cd30,r_9c4c67d6,T1_filter,success,,63,200,on
+2025-12-09T17:57:15.070382881Z,80cd30,r_02e2dbdf,T1_filter,success,,1,200,off
+2025-12-09T17:57:15.106514910Z,80cd30,r_b6db4787,T0_list,success,,8,200,off
+2025-12-09T17:57:32.524752083Z,80cd30,r_f3d05eb9,T0_list,success,,9,200,off
+2025-12-09T17:57:39.109974860Z,80cd30,r_a19ba6ff,T3_add,success,,5,200,on
+2025-12-09T17:57:51.980511859Z,80cd30,r_601d9919,T0_list,success,,8,200,off
