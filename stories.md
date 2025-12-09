@@ -82,7 +82,7 @@ kotlin model task line 58
 
 
 
-Adam:
+Adam (C)
 2025-12-05T12:23:23.663875135Z,8a7248,r_3c705c86,T0_list,success,,11,200,off
 2025-12-05T12:23:30.505924365Z,8a7248,r_769e4fe4,T3_add,success,,13,200,on
 2025-12-05T12:24:17.056045555Z,8a7248,r_4f266347,T0_list,success,,16,200,off
@@ -97,7 +97,7 @@ Adam:
 "Colour is ugly" (in reference to the buttons)
 
 
-otise:
+otise (B)
 
 2025-12-05T12:35:05.796803427Z,8a7248,r_0ce40d6f,T1_filter,success,,0,200,off
 2025-12-05T12:35:05.820630926Z,8a7248,r_3f397ab7,T0_list,success,,21,200,off
@@ -113,7 +113,7 @@ otise:
 
 "...hard to read, the blue on blue. Its ugly too.
 
-eni
+eni (A)
 2025-12-05T12:39:36.179054767Z,8a7248,r_c602b07b,T0_list,success,,11,200,off
 2025-12-05T12:39:43.564889405Z,8a7248,r_5be8334e,T3_add,success,,11,200,on
 2025-12-05T12:40:01.212067881Z,8a7248,r_04e58b87,T0_list,success,,12,200,off
@@ -125,11 +125,23 @@ eni
 2025-12-05T12:40:36.424237893Z,8a7248,r_fd41c12a,T3_add,success,,17,200,on
 2025-12-05T12:40:43.853523537Z,8a7248,r_dbfd53c2,T0_list,success,,13,200,off
 
-"should give an error when not mkaing task"
+"should give an error when not making task"
 "blue on blue is hard to read. Make them stand out more"
 
-get one thats keyboard for all tasks?
+keyboard only (D)
 
+2025-12-09T11:10:53.184920745Z,8a7248,r_913c6dea,T0_list,success,,17,200,off
+2025-12-09T11:10:58.937636399Z,8a7248,r_687e7165,T3_add,success,,30,200,on
+2025-12-09T11:11:39.156762798Z,8a7248,r_efeba2f4,T0_list,success,,23,200,off
+2025-12-09T11:11:45.789628124Z,8a7248,r_17d819c5,T3_add,success,,16,200,on
+2025-12-09T11:11:48.964375570Z,8a7248,r_dfe297b4,T1_filter,success,,7,200,on
+2025-12-09T11:11:49.940373347Z,8a7248,r_c34465f0,T1_filter,success,,8,200,on
+2025-12-09T11:12:03.159956467Z,8a7248,r_f9818dd0,T1_filter,success,,0,200,off
+2025-12-09T11:12:03.172611756Z,8a7248,r_280ce75b,T0_list,success,,11,200,off
+2025-12-09T11:12:10.357416329Z,8a7248,r_2e7acecc,T3_add,success,,17,200,on
+2025-12-09T11:12:34.550958615Z,8a7248,r_e0f1196e,T0_list,success,,11,200,off
+
+"couldn't tell what was selecting when got to final button [...] more contrast [...] be able to read, not accidentally deleting the task"
 
 Participant 1
 Details of Participant:
