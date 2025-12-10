@@ -151,6 +151,16 @@ Copy here, or link the location of this participant’s pilot study notes
 Metrics:
 Copy here from metrics.csv, or link to the location of this participant’s pilot study log.
 
+
+line 75 index peb
+placeholder="Type to filter..."
+
+line 71
+<label for="search-query">Filter by title</label>
+
+
+"it doesn't give you a prompt or an example to put in to filter tasks"
+
 keyboard only 2
 
 2025-12-09T17:54:33.740977543Z,80cd30,r_f475f104,T0_list,success,,159,200,off
